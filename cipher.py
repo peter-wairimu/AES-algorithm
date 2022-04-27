@@ -119,7 +119,7 @@ else:
     f.close()
     enc.encrypt_file("data.txt")
     print("Please restart the program to complete the setup")
-    time.sleep(15)
+    time.sleep(10)
 
 
 
